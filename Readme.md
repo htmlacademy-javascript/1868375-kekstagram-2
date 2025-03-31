@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Татьяна Бекетова](https://up.htmlacademy.ru/javascript-individual/2/user/1868375).
-* Наставник: [Артем Именин] (https://htmlacademy.ru/profile/id1691873).
+* Наставник: [Роман Марченко] (https://htmlacademy.ru/profile/id505487).
 
 ---
 
