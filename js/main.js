@@ -96,5 +96,5 @@ const createPhoto = () => ({
 
 //Генерация массива фото
 const createPhotos = () => Array.from({length: PHOTO_COUNT}, createPhoto);
-const generatedPhotos = createPhotos();
+createPhotos();
 
